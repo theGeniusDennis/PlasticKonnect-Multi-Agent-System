@@ -1,6 +1,8 @@
 # PlasticKonnect Multi-Agent System
 ## DCIT 403 — Intelligent Agent Systems Project Report
 
+**Repository:** https://github.com/theGeniusDennis/PlasticKonnect-Multi-Agent-System
+
 ---
 
 ## 1. Introduction
