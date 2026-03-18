@@ -1,0 +1,12 @@
+[WasteSensor] Zone 'Science Block' exceeded threshold (22 >= 10). Alert sent.
+[Coordinator] Assigned task 1 (zone='Science Block') to collector 'kwame'.
+[Collector:kwame] Accepted task 1 in zone 'Science Block'. Load: 1/3.
+[Coordinator] Task 1 ACCEPTED by 'kwame'.
+[WasteSensor] Zone 'Engineering Quad' exceeded threshold (15 >= 10). Alert sent.
+[Coordinator] Assigned task 1 (zone='Engineering Quad') to collector 'abena'.
+[Collector:abena] Accepted task 1 in zone 'Engineering Quad'. Load: 1/3.
+[Coordinator] Task 1 ACCEPTED by 'abena'.
+[Gamification] Only 4 active users today (threshold=20). Bonus event triggered for 3h.
+[Coordinator] Engagement drop received. Active=4. Bonus event of 3h acknowledged.
+[Classifier] FRAUD detected: 'user99' submitted 57 scans in 4 min (threshold=8). Alert forwarded to Coordinator.
+[Coordinator] FRAUD ALERT — user='user99' submitted 57 scans in 4 min. Account flagged. Admin notified via decisions.log.

@@ -1,0 +1,32 @@
+PlasticKonnect Multi-Agent Simulation — All Scenarios
+============================================================
+
+
+[Scenario 1] Environment: Science Block = 22 pending pickups
+[Scenario 1] Threshold: 10 | Expected: Coordinator assigns to Kwame
+
+[Scenario 1] All agents started. Waiting for message exchange...
+
+[Scenario 1] Complete. Check logs/agent_messages.log and logs/decisions.log
+
+[Scenario 2] Kwame starts at FULL capacity (3/3 tasks)
+[Scenario 2] Expected: Kwame refuses → Abena accepts
+
+[Scenario 2] Agents started. Waiting for negotiation to complete...
+
+[Scenario 2] Complete. Check logs/decisions.log for reassignment trail.
+
+[Scenario 3] Active users: 4 | Threshold: 20
+[Scenario 3] Expected: GamificationAgent triggers bonus event
+
+[Scenario 3] Agents started. Waiting for engagement check...
+
+[Scenario 3] Complete. Check logs/decisions.log for bonus event entry.
+
+[Scenario 4] user99 has 60 scans in 4 min
+[Scenario 4] Fraud threshold: 8 scans/4min
+[Scenario 4] Expected: ClassificationAgent flags user99 as fraudulent
+
+[Scenario 4] Agents started. Waiting for fraud detection...
+
+[Scenario 4] PASS — user99 successfully flagged for fraud.
